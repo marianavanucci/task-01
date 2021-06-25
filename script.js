@@ -47,7 +47,8 @@ validateParameter('string');
 // uma funcao - 3 parametros 
 // se o 1 for um numero maior q 18 retorna maior de idade
 
-// se for menor de 18 dizer q é menor
+// se for menor de 18 anos dizer q é menor
+
 
 function validarPessoa(x,y,z) {
     const idade = x
