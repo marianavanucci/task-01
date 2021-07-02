@@ -81,7 +81,10 @@ function validarSeEntraNaFesta(x,y,z) {
 validarSeEntraNaFesta(35, null,'feminino')
 
 
+
 /////////////////////
+//if
+
 
 // if (o que avaliar) {
     // o que fazer se a avaliação for verdadeira 
